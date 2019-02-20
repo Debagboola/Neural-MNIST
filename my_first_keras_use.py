@@ -18,6 +18,9 @@ print(test_y.shape)
 
 
 
+#wow!code is fun!
+
+
 #exit(0)
 
 #flatten the image
